@@ -2,7 +2,7 @@
 # Presentations
 This repository contains all the presentations I have given. Each folder contains a presentation and the relevant LaTeX code to produce the presentation.
 
-1. [ESA](http://gsi.dit.upm.es/esa2016/) workshop @ [LREC 2016](http://lrec2016.lrec-conf.org/en/) conference presentation of: Domain Adaptation using Stock Market Prices to Refine Sentiment Dictionaries
+1. [ESA](http://gsi.dit.upm.es/esa2016/) workshop @ [LREC 2016](http://lrec2016.lrec-conf.org/en/) conference presentation of: [Domain Adaptation using Stock Market Prices to Refine Sentiment Dictionaries](./Domain Adaptation Dictionaries)
 2. [UCREL 2016 presentation of](http://ucrel.lancs.ac.uk/crs/presentation.php?id=150): Evaluation metrics matter: predicting sentiment from financial news headlines. Long version.
 3. [SemEval 2017 task 5](http://alt.qcri.org/semeval2017/task5/) @ [ACL](http://acl2017.org/) conference presentation of: Evaluation metrics matter: predicting sentiment from financial news headlines. Conference version.
 4. [UCREL NLP Summer School 2017](http://ucrel.lancs.ac.uk/summerschool/nlp.php): Session on sentiment analysis.
