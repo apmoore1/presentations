@@ -8,3 +8,4 @@ This repository contains all the presentations I have given. Each folder contain
 4. [UCREL NLP Summer School 2017](http://ucrel.lancs.ac.uk/summerschool/nlp.php): [Session on sentiment analysis](./UCREL%20Summer%20School)
 5. Lancaster University Library's [Data Conversations seminar Software As Data](http://wp.lancs.ac.uk/highly-relevant/2017/10/10/3rd-data-conversation-software-as-data-summary-and-slides/) presentation: [My past, present and potential future of
 releasing software with my publications](./releasing%20software).
+6. School of Computing and Communications (SCC), Lancaster University PhD conference 2018 presentation: [Overview of my PhD](./SCC%20PhD%20Conference)
