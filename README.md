@@ -11,3 +11,4 @@ This repository contains all the presentations and posters I have presented. Eac
 releasing software with my publications](./releasing%20software).
 7. School of Computing and Communications (SCC), Lancaster University PhD conference 2018 presentation: [Overview of my PhD](./SCC%20PhD%20Conference)
 8. COLING 2018 presentation of: [Bringing replication and reproduction together with generalisability in NLP: Three reproduction studies for Target Dependent Sentiment Analysis](./reproduction%20and%20generalisability%20in%20TDSA)
+9. NAACL 2021 presentation of: [Multi-task Learning of Negation and Speculation for Targeted Sentiment Classification](https://aclanthology.org/2021.naacl-main.227/) -- [presentation video](https://aclanthology.org/2021.naacl-main.227.mp4)
