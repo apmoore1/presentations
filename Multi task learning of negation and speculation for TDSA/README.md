@@ -1,0 +1,3 @@
+# [Multi-task Learning of Negation and Speculation for Targeted Sentiment Classification](https://aclanthology.org/2021.naacl-main.227/)
+
+The slides presented at NAACL 2021 in the following [presentation video](https://aclanthology.org/2021.naacl-main.227.mp4) can be found at [slides.pdf](./slides.pdf), the [poster.pdf](./poster.pdf) that was presented at NAACL 2021, and the link to the paper [https://aclanthology.org/2021.naacl-main.227/](https://aclanthology.org/2021.naacl-main.227/). Code can be found at: [https://github.com/jerbarnes/multitask_negation_for_targeted_sentiment](https://github.com/jerbarnes/multitask_negation_for_targeted_sentiment)
